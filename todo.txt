@@ -1,0 +1,1 @@
+find the way how to show more details after tests ran
